@@ -126,7 +126,7 @@ A layout consisting of horizontal [tabs](../api/tabs.md) can be used to let the 
 
 You can view a live example of this setup in Angular [here](https://stackblitz.com/edit/ionic-ng-tabs) and in React [here](https://stackblitz.com/edit/ionic-react-tab-layout).
 
-## Menu Layout
+## Menu Layout - (try split pane instead)
 
 A standard layout among mobile apps includes the ability to toggle a side [menu](../api/menu.md) by clicking a button or swiping it open from the side. Side menus are generally used for navigation, but they can contain any content.
 
